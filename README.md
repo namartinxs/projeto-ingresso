@@ -13,17 +13,10 @@
 ![Captura de tela 2024-08-27 180506](https://github.com/user-attachments/assets/32abb196-bd79-4e0c-a762-468126b89686)
 
  
-
-https://github.com/namartinxs/projeto-ingresso/assets/133926013/cd2b13c6-4be9-47ba-90c8-6b4df03c03fc
-
-
-
-
-
 ## :wrench:Tecnologias utilizadas
 
 - ``HTML``
 - ``CSS``
-- ``JavaScript``
+
 
 
